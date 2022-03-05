@@ -1,0 +1,27 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Grapes",
+      "price": 46,
+      "amount": 20,
+      "imageUrl": "https://img.freepik.com/free-vector/isolated-dark-grape-with-green-leaf_317810-1956.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Watermelon",
+      "price": 56,
+      "amount": 50,
+      "imageUrl": "https://ripeme.com/wp-content/uploads/Ripe-Organic-Watermelon.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "price": 60,
+      "amount": 100,
+      "imageUrl": "https://sc04.alicdn.com/kf/U3f818dc61b164bd3996575580efd2b4b6.jpg"
+    }
+  ],
+  "cart": []
+  
+}
